@@ -15,7 +15,7 @@ model suggestions as feedback into the manufacturing workflow.
 
 
 Our SafeOpt simulation at a glance:
-<img width="861" height="695" alt="safeopt_visualization" src="https://github.com/user-attachments/assets/7004f641-3f1d-4884-8fe2-7aab7754b348" />
+<img width="400" height="323" alt="safeopt_visualization" src="https://github.com/user-attachments/assets/7004f641-3f1d-4884-8fe2-7aab7754b348" />
 
 
 
