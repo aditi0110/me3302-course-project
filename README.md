@@ -13,6 +13,9 @@ forms depending on the cause. We aim to train a model that learns optimal parame
 vial filling and is capable of mapping cause and effect. Furthermore, we would like to integrate
 model suggestions as feedback into the manufacturing workflow.
 
+Our approach:
+
+<img width="649" height="311" alt="final_approach" src="https://github.com/user-attachments/assets/63473f67-522d-4c0e-95cd-10c668e96383" />
 
 Our SafeOpt simulation at a glance:
 
